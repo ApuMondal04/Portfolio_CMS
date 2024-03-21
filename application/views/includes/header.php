@@ -46,15 +46,14 @@
                             <li class="nav-item"><a class="nav-link smoth-animation active" href="#home">Home</a></li>
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#features">Features</a></li>
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
-                            <li class="nav-item"><a class="nav-link smoth-animation" href="#pricing">Pricing</a></li>
+                            
                             <li class="nav-item"><a class="nav-link smoth-animation" href="#contacts">Contact</a></li>
                         </ul>
                         <!-- End Mainmanu Nav -->
                     </nav>
                     <!-- Start Header Right  -->
                     <div class="header-right">
-                        <!-- <a class="rn-btn" target="_blank" href="../../checkout/83025947/create_account.html?license=regular"><span>BUY NOW</span></a> -->
+                        
                         <div class="hamberger-menu d-block d-xl-none">
                             <i id="menuBtn" class="feather-menu humberger-menu"></i>
                         </div>
